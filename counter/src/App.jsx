@@ -27,7 +27,7 @@ const App = () => {
             <button
               className="plus"
               onClick={() => {
-                setCounter(counter + 1);
+                setCounter(counter + 1),
               }}
             >
               +
